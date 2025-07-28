@@ -1,6 +1,4 @@
-# Aircraft-ECS-With-AI-Integration-
-
-# Spacecraft Cabin Safety AI Simulation
+# Aircraft Environmental Control System (ECS) with AI Integration
 
 This project simulates an onboard AI safety module that monitors cabin temperature and CO₂ levels, using predefined thresholds to raise alerts. The project integrates **Model-Based Systems Engineering (MBSE)** diagrams with a functional **MATLAB simulation module**.
 
