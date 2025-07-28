@@ -30,7 +30,7 @@ This project simulates an onboard AI safety module that monitors cabin temperatu
 <img width="1398" height="912" alt="plot" src="https://github.com/user-attachments/assets/43a92806-12d0-44d8-ab14-836fd1b181ae" />
 
 ## Relevance
-This project demonstrates proficiency in:
+This project demonstrates competency in:
 - Embedded system simulation
 - AI alert logic for safety-critical systems
 - MBSE-aligned design thinking
