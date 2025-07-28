@@ -5,12 +5,11 @@ This project simulates an onboard AI safety module that monitors cabin temperatu
 ## Technologies Used
 - MATLAB
 - Visual Paradigm (for MBSE system modeling)
-- GitHub (version control and collaboration)
 
 ## Project Structure
-- `matlab_module/AI_Module.m`: Simulates sensor readings and evaluates environmental safety conditions.
 - `diagrams/`: Includes system architecture, use case, and interface diagrams created with Visual Paradigm.
-- `outputs/`: (Optional) Includes saved plots or logs of alerts.
+- `matlab_module/AI_Module.m`: Simulates sensor readings and evaluates environmental safety conditions.
+- `outputs/`: Includes saved plots or logs of alerts.
 
 ## Features
 - Simulates cabin environment sensor data (temp & CO₂)
